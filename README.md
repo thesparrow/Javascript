@@ -1,4 +1,4 @@
-# Javascript
+# The Great RGB Game
 
 Creating web based applications with javascript 
 
