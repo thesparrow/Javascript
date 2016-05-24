@@ -9,7 +9,7 @@ Creating a web based application with javascript and jQuery, practicing project 
 <li> Create an array of colors that will randomly create 3 valid rgb values with in range (0, 255) </li>
 <li> Create the concept of levels in the game: easy vs hard</li>
 <li> Allow the user to see changes when the games is a) reset b) select a different level c) won by user </li>
-<li> Refactor the javascript code to DRY and to modulize all the components in the code</li>
+<li> Refactor the javascript code to DRY and to modulize: create smaller functions to call on</li>
 
 
 #Scope 
