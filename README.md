@@ -6,8 +6,11 @@ Creating a web based application with javascript and jQuery, practicing project 
 <li> Create a game based off this concept: http://www.rgbchallenge.com/ </li>
 <li> Desgin a 6 square grid: utilize bootstrap to format the grid based system </li>
 <li> Create logic controls with javascript for when the user interacts with the square grids</li>
+<li> Create an array of colors that will randomly create 3 valid rgb values with in range (0, 255) </li>
 <li> Create the concept of levels in the game: easy vs hard</li>
-<li> </li>
+<li> Allow the user to see changes when the games is a) reset b) select a different level c) won by user </li>
+<li> Refactor the javascript code to DRY and to modulize all the components in the code</li>
+
 
 #Scope 
 <i> What needs to be learned? </i>
